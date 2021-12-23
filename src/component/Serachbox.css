@@ -1,0 +1,12 @@
+.nav{
+    background: transparent !important;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    margin-left:70px;
+}
+
+.d-flex{
+    margin-right: 600px;
+}

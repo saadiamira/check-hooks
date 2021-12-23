@@ -1,0 +1,17 @@
+.movie-app{
+  /* background-color:#39445a; */
+  background: transparent !important;
+}
+
+.movie-app > .row{
+ 
+  overflow: auto;
+  flex-wrap: nowrap;
+} 
+.list{
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+}
